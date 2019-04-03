@@ -1,0 +1,29 @@
+body {
+    background-color: #17237F;
+    color: oldlace;
+}
+ul {
+    border: groove 4px #7B8AFF;
+    border-radius: 7px;
+    background-color: #fdf5e6;
+    color: #3E457F;
+    text-align: center;
+    margin: 10px;
+}
+.sectionOpener {
+    border: solid 12px cornflowerblue;
+}
+.basicInfo {
+    border: solid 11px navy;
+}
+.name {
+    text-align: center;
+}
+iframe {
+    position: relative;
+    left: 550px;
+}
+#jim {
+    position: relative;
+    top: 300px;
+}
